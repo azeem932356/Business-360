@@ -17,8 +17,6 @@ The goal is to create a single, comprehensive report that serves stakeholders fr
 8. Implementing Stakeholder Feedback
 9. Metrics for Sales, Marketing, Finance, and Supply Chain
 
----
-
 **Screenshot Description 1:**
 User-friendly landing page as part of the dashboard design.
 
@@ -41,3 +39,8 @@ Presents key metrics by customer, accuracy and net error trend, and key metrics 
 
 **Executive View:**
 Provides key insights by sub-zone, revenue by division and channel, market trends for AtliQ and competitors, yearly trends in revenue, gross margin percentage, net profit percentage, market share, and top 5 customers and products by revenue.
+
+
+**Linkedin**: 
+
+**Live DashBoard**:**https://app.powerbi.com/view?r=eyJrIjoiOTVjMWEyZTMtNjU3NC00YTJhLTg5YWQtNWExMWRmN2UzY2I5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9**
